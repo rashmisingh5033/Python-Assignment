@@ -1,0 +1,5 @@
+tpl=()
+print(tpl)
+tpl=(10,)
+print(type(tpl))
+print(tpl)
